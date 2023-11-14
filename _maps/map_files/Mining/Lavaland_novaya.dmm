@@ -20400,9 +20400,6 @@
 	},
 /turf/open/floor/plating,
 /area/ruin/lavaland/unpowered/deepspaceone/engineering)
-"tnM" = (
-/turf/open/space/basic,
-/area/lavaland/surface/outdoors)
 "tob" = (
 /obj/effect/spawner/structure/window/reinforced,
 /turf/open/floor/plating,
@@ -34230,7 +34227,7 @@ rEg
 rEg
 rEg
 rEg
-tnM
+rEg
 rEg
 rEg
 rEg
@@ -34486,7 +34483,7 @@ rEg
 rEg
 rEg
 rEg
-tnM
+rEg
 rEg
 rEg
 rEg
@@ -79237,7 +79234,7 @@ vAU
 vAU
 "}
 (210,1,1) = {"
-gIl
+ivD
 ivD
 ivD
 ivD

@@ -8425,7 +8425,9 @@
 "atf" = (
 /obj/effect/decal/cleanable/blood/splatter,
 /obj/effect/decal/cleanable/blood/gibs/body,
-/turf/open/floor/grass/grass0,
+/turf/open/floor/plating/smooth/grass/lavaland_jungle{
+	initial_gas_mix = "o2=21.78;n2=82.36;TEMP=293.15"
+	},
 /area/wizard_station)
 "ath" = (
 /obj/structure/bed,
@@ -9169,7 +9171,9 @@
 /area/centcom/ferry)
 "auL" = (
 /obj/machinery/hydroponics/soil,
-/turf/open/floor/grass/grass0,
+/turf/open/floor/plating/smooth/grass/lavaland_jungle{
+	initial_gas_mix = "o2=21.78;n2=82.36;TEMP=293.15"
+	},
 /area/slavers)
 "auN" = (
 /obj/item/kirbyplants/random,
@@ -9408,7 +9412,9 @@
 /mob/living/simple_animal/hostile/netherworld{
 	name = "Experiment 35b"
 	},
-/turf/open/floor/grass/grass0,
+/turf/open/floor/plating/smooth/grass/lavaland_jungle{
+	initial_gas_mix = "o2=21.78;n2=82.36;TEMP=293.15"
+	},
 /area/wizard_station)
 "avr" = (
 /obj/machinery/mech_bay_recharge_port,
@@ -11211,7 +11217,9 @@
 /obj/structure/flora/ausbushes/fullgrass,
 /obj/structure/flora/ausbushes/brflowers,
 /obj/structure/flora/ausbushes/genericbush,
-/turf/open/floor/grass/grass0,
+/turf/open/floor/plating/smooth/grass/lavaland_jungle{
+	initial_gas_mix = "o2=21.78;n2=82.36;TEMP=293.15"
+	},
 /area/tdome/tdomeadmin)
 "azT" = (
 /obj/effect/turf_decal/tile/red{
@@ -12090,7 +12098,9 @@
 /obj/structure/flora/ausbushes/grassybush,
 /obj/structure/flora/ausbushes/ppflowers,
 /obj/structure/flora/ausbushes/pointybush,
-/turf/open/floor/grass/grass0,
+/turf/open/floor/plating/smooth/grass/lavaland_jungle{
+	initial_gas_mix = "o2=21.78;n2=82.36;TEMP=293.15"
+	},
 /area/tdome/tdomeadmin)
 "aBX" = (
 /obj/effect/turf_decal/tile/red{
@@ -16620,7 +16630,9 @@
 /obj/structure/flora/ausbushes/grassybush,
 /obj/structure/flora/ausbushes/ppflowers,
 /obj/structure/flora/ausbushes/leafybush,
-/turf/open/floor/grass/grass0,
+/turf/open/floor/plating/smooth/grass/lavaland_jungle{
+	initial_gas_mix = "o2=21.78;n2=82.36;TEMP=293.15"
+	},
 /area/centcom/ferry)
 "aLp" = (
 /obj/structure/chair{
@@ -16631,7 +16643,9 @@
 "aLr" = (
 /obj/effect/decal/remains/human,
 /obj/effect/decal/cleanable/blood/splatter,
-/turf/open/floor/grass/grass0,
+/turf/open/floor/plating/smooth/grass/lavaland_jungle{
+	initial_gas_mix = "o2=21.78;n2=82.36;TEMP=293.15"
+	},
 /area/wizard_station)
 "aLs" = (
 /obj/docking_port/stationary{
@@ -17628,7 +17642,9 @@
 /area/centcom/evac)
 "aPb" = (
 /obj/item/reagent_containers/food/snacks/meat/slab/human/mutant/lizard,
-/turf/open/floor/grass/grass0,
+/turf/open/floor/plating/smooth/grass/lavaland_jungle{
+	initial_gas_mix = "o2=21.78;n2=82.36;TEMP=293.15"
+	},
 /area/wizard_station)
 "aPc" = (
 /obj/structure/flora/ausbushes/lavendergrass,
@@ -17636,7 +17652,9 @@
 /obj/structure/flora/ausbushes/fullgrass,
 /obj/structure/flora/ausbushes/brflowers,
 /obj/structure/flora/ausbushes/pointybush,
-/turf/open/floor/grass/grass0,
+/turf/open/floor/plating/smooth/grass/lavaland_jungle{
+	initial_gas_mix = "o2=21.78;n2=82.36;TEMP=293.15"
+	},
 /area/centcom/ferry)
 "aPd" = (
 /obj/structure/sign/map/right{
@@ -17902,7 +17920,9 @@
 /obj/structure/flora/ausbushes/grassybush,
 /obj/structure/flora/ausbushes/ppflowers,
 /obj/structure/flora/ausbushes/pointybush,
-/turf/open/floor/grass/grass0,
+/turf/open/floor/plating/smooth/grass/lavaland_jungle{
+	initial_gas_mix = "o2=21.78;n2=82.36;TEMP=293.15"
+	},
 /area/centcom/ferry)
 "aQi" = (
 /obj/effect/turf_decal/tile/red,
@@ -17952,7 +17972,9 @@
 /obj/structure/flora/ausbushes/grassybush,
 /obj/structure/flora/ausbushes/ppflowers,
 /obj/structure/flora/ausbushes/pointybush,
-/turf/open/floor/grass/grass0,
+/turf/open/floor/plating/smooth/grass/lavaland_jungle{
+	initial_gas_mix = "o2=21.78;n2=82.36;TEMP=293.15"
+	},
 /area/tdome/tdomeobserve)
 "aQv" = (
 /obj/effect/turf_decal/tile/green,
@@ -18203,7 +18225,9 @@
 /area/syndicate_mothership)
 "aRt" = (
 /obj/effect/decal/cleanable/blood/splatter,
-/turf/open/floor/grass/grass0,
+/turf/open/floor/plating/smooth/grass/lavaland_jungle{
+	initial_gas_mix = "o2=21.78;n2=82.36;TEMP=293.15"
+	},
 /area/wizard_station)
 "aRv" = (
 /obj/effect/turf_decal/stripes/line{
@@ -18466,7 +18490,9 @@
 /obj/structure/flora/ausbushes/fullgrass,
 /obj/structure/flora/ausbushes/brflowers,
 /obj/structure/flora/ausbushes/genericbush,
-/turf/open/floor/grass/grass0,
+/turf/open/floor/plating/smooth/grass/lavaland_jungle{
+	initial_gas_mix = "o2=21.78;n2=82.36;TEMP=293.15"
+	},
 /area/tdome/tdomeobserve)
 "aSx" = (
 /obj/docking_port/stationary{
@@ -18526,7 +18552,9 @@
 /area/centcom/supplypod)
 "aSG" = (
 /obj/effect/decal/remains/xeno,
-/turf/open/floor/grass/grass0,
+/turf/open/floor/plating/smooth/grass/lavaland_jungle{
+	initial_gas_mix = "o2=21.78;n2=82.36;TEMP=293.15"
+	},
 /area/wizard_station)
 "aSH" = (
 /obj/effect/turf_decal/tile/green{
@@ -18759,7 +18787,9 @@
 /obj/structure/flora/ausbushes/ppflowers,
 /obj/structure/flora/ausbushes/pointybush,
 /obj/machinery/light,
-/turf/open/floor/grass/grass0,
+/turf/open/floor/plating/smooth/grass/lavaland_jungle{
+	initial_gas_mix = "o2=21.78;n2=82.36;TEMP=293.15"
+	},
 /area/tdome/tdomeadmin)
 "aTF" = (
 /obj/effect/turf_decal/tile/red{
@@ -19167,7 +19197,9 @@
 /obj/structure/flora/ausbushes/fullgrass,
 /obj/structure/flora/ausbushes/brflowers,
 /obj/structure/flora/ausbushes/genericbush,
-/turf/open/floor/grass/grass0,
+/turf/open/floor/plating/smooth/grass/lavaland_jungle{
+	initial_gas_mix = "o2=21.78;n2=82.36;TEMP=293.15"
+	},
 /area/centcom/ferry)
 "aVi" = (
 /obj/effect/light_emitter{
@@ -19824,7 +19856,9 @@
 /turf/open/floor/plasteel,
 /area/slavers)
 "aXF" = (
-/turf/open/floor/grass/grass0,
+/turf/open/floor/plating/smooth/grass/lavaland_jungle{
+	initial_gas_mix = "o2=21.78;n2=82.36;TEMP=293.15"
+	},
 /area/wizard_station)
 "aXG" = (
 /obj/effect/turf_decal/stripes/corner{
@@ -19913,7 +19947,9 @@
 /area/centcom/evac)
 "aXV" = (
 /obj/item/reagent_containers/food/snacks/meat/slab/corgi,
-/turf/open/floor/grass/grass0,
+/turf/open/floor/plating/smooth/grass/lavaland_jungle{
+	initial_gas_mix = "o2=21.78;n2=82.36;TEMP=293.15"
+	},
 /area/wizard_station)
 "aYb" = (
 /obj/effect/turf_decal/tile/bar{
@@ -20072,7 +20108,9 @@
 /area/slavers)
 "aYE" = (
 /obj/item/reagent_containers/food/snacks/meat/slab/xeno,
-/turf/open/floor/grass/grass0,
+/turf/open/floor/plating/smooth/grass/lavaland_jungle{
+	initial_gas_mix = "o2=21.78;n2=82.36;TEMP=293.15"
+	},
 /area/wizard_station)
 "aYG" = (
 /turf/open/floor/plasteel/showroomfloor,
@@ -20195,7 +20233,9 @@
 /area/slavers)
 "aZb" = (
 /obj/item/reagent_containers/food/snacks/meat/slab/human/mutant/slime,
-/turf/open/floor/grass/grass0,
+/turf/open/floor/plating/smooth/grass/lavaland_jungle{
+	initial_gas_mix = "o2=21.78;n2=82.36;TEMP=293.15"
+	},
 /area/wizard_station)
 "aZc" = (
 /turf/open/indestructible/binary,
@@ -20268,7 +20308,9 @@
 /area/holodeck/rec_center/chapelcourt)
 "aZm" = (
 /obj/effect/decal/remains/xeno/larva,
-/turf/open/floor/grass/grass0,
+/turf/open/floor/plating/smooth/grass/lavaland_jungle{
+	initial_gas_mix = "o2=21.78;n2=82.36;TEMP=293.15"
+	},
 /area/wizard_station)
 "aZn" = (
 /obj/effect/turf_decal/stripes/white/line,
@@ -20584,8 +20626,8 @@
 /area/centcom/holding)
 "bhn" = (
 /obj/structure/furnace,
-/turf/open/floor/grass/grass0{
-	light_range = 50
+/turf/open/floor/plating/smooth/grass/lavaland_jungle{
+	initial_gas_mix = "o2=21.78;n2=82.36;TEMP=293.15"
 	},
 /area/centcom/holding)
 "bhN" = (
@@ -21282,8 +21324,8 @@
 /obj/structure/flora/tree/jungle/small{
 	icon_state = "tree3"
 	},
-/turf/open/floor/grass/grass0{
-	light_range = 50
+/turf/open/floor/plating/smooth/grass/lavaland_jungle{
+	initial_gas_mix = "o2=21.78;n2=82.36;TEMP=293.15"
 	},
 /area/centcom/holding)
 "cmn" = (
@@ -21417,8 +21459,8 @@
 /area/syndicate_mothership/control)
 "cvM" = (
 /obj/structure/flora/grass/jungle,
-/turf/open/floor/grass/grass0{
-	light_range = 50
+/turf/open/floor/plating/smooth/grass/lavaland_jungle{
+	initial_gas_mix = "o2=21.78;n2=82.36;TEMP=293.15"
 	},
 /area/centcom/holding)
 "cvS" = (
@@ -21761,11 +21803,9 @@
 /turf/closed/wall/mineral/snow,
 /area/centcom/holding)
 "dby" = (
-/obj/structure/flora/grass/jungle/b,
-/turf/open/floor/grass/grass0{
-	light_range = 50
-	},
-/area/centcom/holding)
+/obj/structure/window,
+/turf/open/space/basic,
+/area/space)
 "dbD" = (
 /obj/effect/turf_decal/tile/neutral{
 	dir = 1
@@ -22672,14 +22712,6 @@
 /obj/item/flashlight/seclite,
 /turf/open/floor/plating,
 /area/syndicate_mothership/control)
-"eqW" = (
-/obj/structure/flora/rock/pile{
-	icon_state = "basalt3"
-	},
-/turf/open/floor/grass/grass0{
-	light_range = 50
-	},
-/area/centcom/holding)
 "esi" = (
 /turf/open/floor/iron/freezer,
 /area/syndicate_mothership/control)
@@ -22910,8 +22942,8 @@
 	name = "thick vines";
 	opacity = 1
 	},
-/turf/open/floor/grass/grass0{
-	light_range = 50
+/turf/open/floor/plating/smooth/grass/lavaland_jungle{
+	initial_gas_mix = "o2=21.78;n2=82.36;TEMP=293.15"
 	},
 /area/centcom/holding)
 "eIy" = (
@@ -23097,11 +23129,6 @@
 /obj/machinery/vending/cola/shamblers,
 /turf/open/floor/mineral/plastitanium/red,
 /area/centcom/holding)
-"eUi" = (
-/obj/structure/bed,
-/obj/effect/spawner/lootdrop/bedsheet,
-/turf/open/floor/carpet/royalblack,
-/area/centcom/holding)
 "eUo" = (
 /obj/machinery/computer{
 	dir = 4;
@@ -23127,17 +23154,19 @@
 /obj/effect/turf_decal/siding/wood{
 	dir = 8
 	},
-/turf/open/floor/grass/grass0,
+/turf/open/floor/plating/smooth/grass/lavaland_jungle{
+	initial_gas_mix = "o2=21.78;n2=82.36;TEMP=293.15"
+	},
 /area/syndicate_mothership/control)
 "eUM" = (
-/obj/effect/spawner/structure/window/hollow/directional{
-	dir = 8
-	},
 /obj/machinery/light/small{
 	dir = 4
 	},
-/turf/open/floor/grass/grass0{
-	light_range = 50
+/obj/structure/window{
+	dir = 8
+	},
+/turf/open/floor/plating/smooth/grass/lavaland_jungle{
+	initial_gas_mix = "o2=21.78;n2=82.36;TEMP=293.15"
 	},
 /area/centcom/holding)
 "eUU" = (
@@ -23228,8 +23257,14 @@
 /turf/closed/indestructible/spookytime/matrixblocker,
 /area/centcom)
 "fdq" = (
-/obj/structure/flora/tree/jungle,
-/turf/open/floor/grass/grass0,
+/obj/structure/curtain,
+/obj/machinery/light/floor{
+	alpha = 0;
+	invisibility = 100;
+	light_range = 10;
+	nightshift_light_power = 10
+	},
+/turf/open/floor/carpet/royalblack,
 /area/centcom/holding)
 "ffb" = (
 /obj/effect/turf_decal/tile/neutral{
@@ -23538,7 +23573,9 @@
 /obj/structure/flora/tree/jungle/small{
 	icon_state = "tree6"
 	},
-/turf/open/floor/grass/grass0,
+/turf/open/floor/plating/smooth/grass/lavaland_jungle{
+	initial_gas_mix = "o2=21.78;n2=82.36;TEMP=293.15"
+	},
 /area/centcom/holding)
 "fwN" = (
 /obj/item/megaphone,
@@ -23682,7 +23719,9 @@
 	dir = 1
 	},
 /obj/structure/chair/pew/right,
-/turf/open/floor/grass/grass0,
+/turf/open/floor/plating/smooth/grass/lavaland_jungle{
+	initial_gas_mix = "o2=21.78;n2=82.36;TEMP=293.15"
+	},
 /area/syndicate_mothership/control)
 "fFG" = (
 /obj/structure/sauna_oven,
@@ -23814,8 +23853,8 @@
 /turf/open/floor/iron/dark,
 /area/syndicate_mothership/control)
 "fON" = (
-/turf/open/floor/grass/grass0{
-	light_range = 50
+/turf/open/floor/plating/smooth/grass/lavaland_jungle{
+	initial_gas_mix = "o2=21.78;n2=82.36;TEMP=293.15"
 	},
 /area/centcom/holding)
 "fPj" = (
@@ -24948,7 +24987,9 @@
 /obj/structure/window/reinforced{
 	dir = 4
 	},
-/turf/open/floor/grass/grass0,
+/turf/open/floor/plating/smooth/grass/lavaland_jungle{
+	initial_gas_mix = "o2=21.78;n2=82.36;TEMP=293.15"
+	},
 /area/syndicate_mothership/control)
 "hwr" = (
 /obj/effect/turf_decal/tile/brown/fourcorners,
@@ -25555,7 +25596,9 @@
 	dir = 1
 	},
 /obj/structure/chair/pew,
-/turf/open/floor/grass/grass0,
+/turf/open/floor/plating/smooth/grass/lavaland_jungle{
+	initial_gas_mix = "o2=21.78;n2=82.36;TEMP=293.15"
+	},
 /area/syndicate_mothership/control)
 "ijI" = (
 /obj/machinery/vending/cola/red,
@@ -25758,10 +25801,6 @@
 /obj/machinery/recharger,
 /turf/open/floor/plating,
 /area/syndicate_mothership/control)
-"iyp" = (
-/obj/structure/flora/rock/pile,
-/turf/open/floor/grass/grass0,
-/area/centcom/holding)
 "izf" = (
 /obj/effect/turf_decal/siding/wood,
 /obj/structure/table/wood,
@@ -26054,7 +26093,6 @@
 	pixel_x = 25;
 	specialfunctions = 4
 	},
-/obj/item/kirbyplants/random,
 /turf/open/floor/carpet/royalblack,
 /area/centcom/holding)
 "iSX" = (
@@ -26341,7 +26379,9 @@
 /area/syndicate_mothership/control)
 "jyC" = (
 /obj/structure/spacevine,
-/turf/open/floor/grass/grass0,
+/turf/open/floor/plating/smooth/grass/lavaland_jungle{
+	initial_gas_mix = "o2=21.78;n2=82.36;TEMP=293.15"
+	},
 /area/centcom/holding)
 "jyM" = (
 /obj/effect/turf_decal/tile/brown,
@@ -26582,8 +26622,8 @@
 /area/syndicate_mothership/control)
 "jQd" = (
 /obj/structure/flora/rock/pile,
-/turf/open/floor/grass/grass0{
-	light_range = 50
+/turf/open/floor/plating/smooth/grass/lavaland_jungle{
+	initial_gas_mix = "o2=21.78;n2=82.36;TEMP=293.15"
 	},
 /area/centcom/holding)
 "jQH" = (
@@ -26802,13 +26842,9 @@
 /turf/open/floor/plasteel,
 /area/centcom)
 "kjh" = (
-/obj/effect/turf_decal/sand{
-	density = 1
-	},
-/obj/effect/decal/fakelattice,
-/turf/open/floor/pod/light{
-	density = 1
-	},
+/obj/structure/bed/double,
+/obj/item/bedsheet/random/double,
+/turf/open/floor/carpet/royalblack,
 /area/centcom/holding)
 "kjn" = (
 /obj/structure/flora/ausbushes/lavendergrass,
@@ -27192,8 +27228,8 @@
 /area/centcom/holding)
 "kGh" = (
 /obj/structure/anvil/obtainable/basic,
-/turf/open/floor/grass/grass0{
-	light_range = 50
+/turf/open/floor/plating/smooth/grass/lavaland_jungle{
+	initial_gas_mix = "o2=21.78;n2=82.36;TEMP=293.15"
 	},
 /area/centcom/holding)
 "kHs" = (
@@ -27834,8 +27870,8 @@
 "lvA" = (
 /obj/structure/flora/rock/pile,
 /obj/structure/fans/tiny/invisible,
-/turf/open/floor/grass/grass0{
-	light_range = 50
+/turf/open/floor/plating/smooth/grass/lavaland_jungle{
+	initial_gas_mix = "o2=21.78;n2=82.36;TEMP=293.15"
 	},
 /area/centcom/holding)
 "lxk" = (
@@ -27956,13 +27992,6 @@
 	},
 /turf/open/floor/iron/dark,
 /area/shuttle/inteq/collosus)
-"lEq" = (
-/obj/structure/flora/grass/jungle/b,
-/obj/structure/fans/tiny/invisible,
-/turf/open/floor/plating/dirt/dark/jungle{
-	initial_gas_mix = "o2=21.78;n2=82.36;TEMP=293.15"
-	},
-/area/centcom/holding)
 "lEK" = (
 /obj/effect/turf_decal/siding/wood/corner{
 	dir = 8
@@ -28029,8 +28058,8 @@
 /area/syndicate_mothership/control)
 "lIv" = (
 /obj/structure/dead_ratvar,
-/turf/open/floor/grass/grass0{
-	light_range = 50
+/turf/open/floor/plating/smooth/grass/lavaland_jungle{
+	initial_gas_mix = "o2=21.78;n2=82.36;TEMP=293.15"
 	},
 /area/centcom/holding)
 "lIV" = (
@@ -28874,8 +28903,8 @@
 /obj/structure/chair/office/light{
 	dir = 1
 	},
-/turf/open/floor/grass/grass0{
-	light_range = 50
+/turf/open/floor/plating/smooth/grass/lavaland_jungle{
+	initial_gas_mix = "o2=21.78;n2=82.36;TEMP=293.15"
 	},
 /area/centcom/holding)
 "nec" = (
@@ -29114,8 +29143,8 @@
 /area/shuttle/inteq/collosus)
 "nva" = (
 /obj/structure/anvil/obtainable/dwarfvil,
-/turf/open/floor/grass/grass0{
-	light_range = 50
+/turf/open/floor/plating/smooth/grass/lavaland_jungle{
+	initial_gas_mix = "o2=21.78;n2=82.36;TEMP=293.15"
 	},
 /area/centcom/holding)
 "nwl" = (
@@ -29281,7 +29310,9 @@
 	},
 /obj/structure/chair/pew/left,
 /obj/machinery/light/floor,
-/turf/open/floor/grass/grass0,
+/turf/open/floor/plating/smooth/grass/lavaland_jungle{
+	initial_gas_mix = "o2=21.78;n2=82.36;TEMP=293.15"
+	},
 /area/syndicate_mothership/control)
 "nMH" = (
 /obj/structure/sink/kitchen/directional/east,
@@ -29515,10 +29546,6 @@
 /obj/structure/closet,
 /turf/open/floor/iron/dark,
 /area/syndicate_mothership/control)
-"oiE" = (
-/obj/structure/flora/grass/jungle,
-/turf/open/floor/grass/grass0,
-/area/centcom/holding)
 "oiH" = (
 /obj/machinery/portable_atmospherics/canister/toxins,
 /turf/open/floor/bluespace,
@@ -29881,8 +29908,8 @@
 /area/syndicate_mothership/control)
 "oNM" = (
 /obj/machinery/light/directional/east,
-/turf/open/floor/grass/grass0{
-	light_range = 50
+/turf/open/floor/plating/smooth/grass/lavaland_jungle{
+	initial_gas_mix = "o2=21.78;n2=82.36;TEMP=293.15"
 	},
 /area/centcom/holding)
 "oPH" = (
@@ -30029,10 +30056,6 @@
 "pbF" = (
 /obj/machinery/light/directional/east,
 /turf/open/floor/carpet/royalblack,
-/area/centcom/holding)
-"pbN" = (
-/obj/structure/flora/tree/jungle/small,
-/turf/open/floor/grass/grass0,
 /area/centcom/holding)
 "pcf" = (
 /obj/machinery/firealarm{
@@ -30417,7 +30440,9 @@
 /obj/structure/window/reinforced{
 	dir = 4
 	},
-/turf/open/floor/grass/grass0,
+/turf/open/floor/plating/smooth/grass/lavaland_jungle{
+	initial_gas_mix = "o2=21.78;n2=82.36;TEMP=293.15"
+	},
 /area/syndicate_mothership/control)
 "pzJ" = (
 /obj/machinery/door/airlock/centcom{
@@ -30652,7 +30677,9 @@
 /area/centcom/holding)
 "qcu" = (
 /obj/structure/fans/tiny/invisible,
-/turf/open/floor/grass/grass0,
+/turf/open/floor/plating/smooth/grass/lavaland_jungle{
+	initial_gas_mix = "o2=21.78;n2=82.36;TEMP=293.15"
+	},
 /area/centcom/holding)
 "qcV" = (
 /obj/structure/closet{
@@ -30834,8 +30861,8 @@
 /area/syndicate_mothership/control)
 "qrw" = (
 /obj/structure/light_prism,
-/turf/open/floor/grass/grass0{
-	light_range = 50
+/turf/open/floor/plating/smooth/grass/lavaland_jungle{
+	initial_gas_mix = "o2=21.78;n2=82.36;TEMP=293.15"
 	},
 /area/centcom/holding)
 "qrx" = (
@@ -30874,7 +30901,9 @@
 /obj/effect/turf_decal/siding/wood{
 	dir = 4
 	},
-/turf/open/floor/grass/grass0,
+/turf/open/floor/plating/smooth/grass/lavaland_jungle{
+	initial_gas_mix = "o2=21.78;n2=82.36;TEMP=293.15"
+	},
 /area/syndicate_mothership/control)
 "qtu" = (
 /obj/effect/turf_decal/tile/dark_green/half/contrasted,
@@ -30969,12 +30998,8 @@
 /turf/open/floor/wood,
 /area/centcom/holding)
 "qyh" = (
-/obj/structure/flora/tree/jungle/small{
-	icon_state = "tree4"
-	},
-/turf/open/floor/grass/grass0{
-	light_range = 50
-	},
+/obj/structure/sink/directional/east,
+/turf/open/indestructible/hoteltile,
 /area/centcom/holding)
 "qAQ" = (
 /obj/machinery/door/poddoor/shutters/preopen{
@@ -31372,7 +31397,9 @@
 /obj/structure/window/reinforced{
 	dir = 4
 	},
-/turf/open/floor/grass/grass0,
+/turf/open/floor/plating/smooth/grass/lavaland_jungle{
+	initial_gas_mix = "o2=21.78;n2=82.36;TEMP=293.15"
+	},
 /area/syndicate_mothership/control)
 "rgt" = (
 /obj/effect/turf_decal/bluemoon_decals/enclave/top/left,
@@ -32186,7 +32213,9 @@
 	},
 /obj/structure/chair/pew/right,
 /obj/machinery/light/floor,
-/turf/open/floor/grass/grass0,
+/turf/open/floor/plating/smooth/grass/lavaland_jungle{
+	initial_gas_mix = "o2=21.78;n2=82.36;TEMP=293.15"
+	},
 /area/syndicate_mothership/control)
 "soI" = (
 /obj/structure/dresser{
@@ -32263,9 +32292,6 @@
 /obj/machinery/vending/cola/random,
 /turf/open/floor/iron/dark,
 /area/syndicate_mothership)
-"suT" = (
-/turf/open/floor/grass/grass0,
-/area/centcom/holding)
 "svK" = (
 /obj/structure/bed,
 /obj/item/bedsheet/vulp/vulp3,
@@ -32445,6 +32471,9 @@
 /area/syndicate_mothership/control)
 "sGg" = (
 /obj/structure/table/wood,
+/obj/item/pizzabox/meat{
+	pixel_y = 10
+	},
 /turf/open/floor/carpet/purple,
 /area/centcom/holding)
 "sGn" = (
@@ -33021,6 +33050,17 @@
 /obj/structure/fermenting_barrel,
 /turf/open/indestructible/hoteltile,
 /area/centcom/holding)
+"tEJ" = (
+/obj/structure/table/wood,
+/obj/item/storage/box/drinkingglasses{
+	pixel_x = 4
+	},
+/obj/item/storage/box/drinkingglasses{
+	pixel_x = -2;
+	pixel_y = 3
+	},
+/turf/open/indestructible/hotelwood,
+/area/centcom/holding)
 "tFl" = (
 /obj/effect/turf_decal/stripes/line{
 	dir = 1
@@ -33099,7 +33139,9 @@
 /area/centcom)
 "tLL" = (
 /obj/structure/flora/grass/jungle/b,
-/turf/open/floor/grass/grass0,
+/turf/open/floor/plating/smooth/grass/lavaland_jungle{
+	initial_gas_mix = "o2=21.78;n2=82.36;TEMP=293.15"
+	},
 /area/centcom/holding)
 "tMM" = (
 /obj/machinery/atmospherics/components/unary/cryo_cell,
@@ -33199,7 +33241,9 @@
 /obj/structure/flora/tree/jungle/small{
 	icon_state = "tree4"
 	},
-/turf/open/floor/grass/grass0,
+/turf/open/floor/plating/smooth/grass/lavaland_jungle{
+	initial_gas_mix = "o2=21.78;n2=82.36;TEMP=293.15"
+	},
 /area/centcom/holding)
 "tSb" = (
 /obj/machinery/vending/cigarette/syndicate,
@@ -34057,7 +34101,9 @@
 /obj/structure/flora/rock/pile{
 	icon_state = "basalt3"
 	},
-/turf/open/floor/grass/grass0,
+/turf/open/floor/plating/smooth/grass/lavaland_jungle{
+	initial_gas_mix = "o2=21.78;n2=82.36;TEMP=293.15"
+	},
 /area/centcom/holding)
 "vfS" = (
 /obj/item/kirbyplants/hedge{
@@ -34097,8 +34143,8 @@
 /obj/structure/flora/tree/jungle/small{
 	icon_state = "tree5"
 	},
-/turf/open/floor/grass/grass0{
-	light_range = 50
+/turf/open/floor/plating/smooth/grass/lavaland_jungle{
+	initial_gas_mix = "o2=21.78;n2=82.36;TEMP=293.15"
 	},
 /area/centcom/holding)
 "viE" = (
@@ -34161,12 +34207,15 @@
 /turf/open/floor/iron/dark,
 /area/syndicate_mothership/control)
 "vlb" = (
-/obj/effect/spawner/structure/window/hollow/directional{
-	dir = 9
-	},
 /obj/item/toy/plush/gondola,
-/turf/open/floor/grass/grass0{
-	light_range = 50
+/obj/structure/window{
+	dir = 8
+	},
+/obj/structure/window{
+	dir = 1
+	},
+/turf/open/floor/plating/smooth/grass/lavaland_jungle{
+	initial_gas_mix = "o2=21.78;n2=82.36;TEMP=293.15"
 	},
 /area/centcom/holding)
 "vmG" = (
@@ -34232,8 +34281,8 @@
 /area/space)
 "vpn" = (
 /obj/structure/flora/tree/jungle,
-/turf/open/floor/grass/grass0{
-	light_range = 50
+/turf/open/floor/plating/smooth/grass/lavaland_jungle{
+	initial_gas_mix = "o2=21.78;n2=82.36;TEMP=293.15"
 	},
 /area/centcom/holding)
 "vpz" = (
@@ -34940,8 +34989,8 @@
 /area/syndicate_mothership/control)
 "wsN" = (
 /obj/structure/easel,
-/turf/open/floor/grass/grass0{
-	light_range = 50
+/turf/open/floor/plating/smooth/grass/lavaland_jungle{
+	initial_gas_mix = "o2=21.78;n2=82.36;TEMP=293.15"
 	},
 /area/centcom/holding)
 "wsQ" = (
@@ -35079,14 +35128,10 @@
 /area/centcom)
 "wBK" = (
 /obj/structure/table/wood,
-/obj/item/storage/box/drinkingglasses{
-	pixel_x = -2;
-	pixel_y = 3
+/obj/item/pizzabox/margherita{
+	pixel_y = 10
 	},
-/obj/item/storage/box/drinkingglasses{
-	pixel_x = 4
-	},
-/turf/open/indestructible/hotelwood,
+/turf/open/floor/carpet/purple,
 /area/centcom/holding)
 "wBW" = (
 /obj/machinery/vending/wardrobe/chef_wardrobe,
@@ -35147,8 +35192,8 @@
 "wGK" = (
 /obj/structure/flora/grass/jungle/b,
 /obj/structure/anvil,
-/turf/open/floor/grass/grass0{
-	light_range = 50
+/turf/open/floor/plating/smooth/grass/lavaland_jungle{
+	initial_gas_mix = "o2=21.78;n2=82.36;TEMP=293.15"
 	},
 /area/centcom/holding)
 "wGP" = (
@@ -35161,15 +35206,6 @@
 /obj/machinery/vending/engivend,
 /turf/open/floor/plating,
 /area/syndicate_mothership/control)
-"wIn" = (
-/obj/effect/turf_decal/sand{
-	density = 1
-	},
-/obj/effect/decal/fakelattice,
-/turf/open/floor/plating/beach/sand{
-	light_range = 50
-	},
-/area/centcom/holding)
 "wJM" = (
 /obj/structure/table/optable,
 /obj/machinery/defibrillator_mount/loaded{
@@ -35242,8 +35278,8 @@
 /area/centcom)
 "wRq" = (
 /obj/structure/flora/tree/jungle/small,
-/turf/open/floor/grass/grass0{
-	light_range = 50
+/turf/open/floor/plating/smooth/grass/lavaland_jungle{
+	initial_gas_mix = "o2=21.78;n2=82.36;TEMP=293.15"
 	},
 /area/centcom/holding)
 "wRJ" = (
@@ -35721,12 +35757,6 @@
 /obj/structure/reagent_dispensers/watertank,
 /turf/open/floor/glass/reinforced,
 /area/syndicate_mothership/control)
-"xvd" = (
-/obj/structure/fans/tiny/invisible,
-/turf/open/floor/grass/grass0{
-	light_range = 50
-	},
-/area/centcom/holding)
 "xvG" = (
 /obj/structure/table/wood,
 /obj/item/paper_bin{
@@ -35971,7 +36001,9 @@
 	dir = 1
 	},
 /obj/structure/chair/pew/left,
-/turf/open/floor/grass/grass0,
+/turf/open/floor/plating/smooth/grass/lavaland_jungle{
+	initial_gas_mix = "o2=21.78;n2=82.36;TEMP=293.15"
+	},
 /area/syndicate_mothership/control)
 "xOw" = (
 /obj/effect/turf_decal/stripes/line{
@@ -36263,7 +36295,9 @@
 /obj/structure/window/reinforced{
 	dir = 4
 	},
-/turf/open/floor/grass/grass0,
+/turf/open/floor/plating/smooth/grass/lavaland_jungle{
+	initial_gas_mix = "o2=21.78;n2=82.36;TEMP=293.15"
+	},
 /area/syndicate_mothership/control)
 "yim" = (
 /obj/item/kirbyplants/hedge{
@@ -45062,15 +45096,15 @@ aFe
 fON
 cvM
 fON
-dby
+tLL
 fON
 ncJ
 ncJ
 ncJ
 ncJ
 ncJ
-oiE
-suT
+cvM
+fON
 ncJ
 ncJ
 ncJ
@@ -45321,17 +45355,17 @@ fON
 fON
 fON
 fON
-suT
-suT
-fdq
-suT
-suT
-suT
-suT
 fON
-suT
-suT
-suT
+fON
+vpn
+fON
+fON
+fON
+fON
+fON
+fON
+fON
+fON
 ncJ
 ncJ
 ncJ
@@ -45564,7 +45598,7 @@ fON
 fON
 fON
 fON
-dby
+tLL
 fON
 fON
 fON
@@ -45578,19 +45612,19 @@ fON
 fON
 fON
 fON
-suT
-suT
-suT
-suT
-suT
-suT
-suT
 fON
-suT
-suT
-suT
-suT
-fdq
+fON
+fON
+fON
+fON
+fON
+fON
+fON
+fON
+fON
+fON
+fON
+vpn
 ncJ
 ncJ
 ncJ
@@ -46094,7 +46128,7 @@ fON
 fON
 fON
 fON
-dby
+tLL
 fON
 lIv
 fON
@@ -46329,7 +46363,7 @@ iUm
 okd
 ncJ
 ncJ
-suT
+fON
 fON
 fON
 fON
@@ -46346,7 +46380,7 @@ aFe
 aFe
 fON
 fON
-dby
+tLL
 fON
 fON
 fON
@@ -46356,13 +46390,13 @@ fON
 fON
 fON
 fON
-dby
+tLL
 fON
 fON
 fON
 fON
 fON
-dby
+fON
 ncJ
 ncJ
 ncJ
@@ -46595,7 +46629,7 @@ aFe
 fON
 fON
 fON
-dby
+tLL
 fON
 fON
 fON
@@ -46619,7 +46653,7 @@ fON
 jQd
 fON
 fON
-fON
+aFe
 aFe
 aFe
 aFe
@@ -46876,13 +46910,13 @@ fON
 fON
 fON
 fON
-fON
 aFe
 dOU
 xYG
 oEH
 aFe
-jJp
+dRs
+qyh
 aFe
 jVl
 jVl
@@ -47129,8 +47163,7 @@ fON
 fON
 fON
 fON
-dby
-fON
+tLL
 fON
 fON
 fON
@@ -47138,7 +47171,8 @@ uFL
 rnA
 rnA
 rnA
-ueZ
+fdq
+gYc
 gYc
 aFe
 jVl
@@ -47390,12 +47424,12 @@ fON
 fON
 fON
 fON
-fON
 aFe
+wUA
 iSO
-rnA
-eUi
+kjh
 aFe
+gYc
 saC
 aFe
 jVl
@@ -47620,7 +47654,7 @@ tnw
 oom
 oom
 aFe
-dby
+tLL
 fON
 fON
 fON
@@ -47631,7 +47665,7 @@ fON
 fON
 fON
 fON
-dby
+tLL
 fON
 fON
 fON
@@ -47647,7 +47681,7 @@ fON
 fON
 fON
 fON
-fON
+aFe
 aFe
 aFe
 aFe
@@ -47905,7 +47939,7 @@ vpn
 fON
 fON
 fON
-fON
+ncJ
 ncJ
 ncJ
 ncJ
@@ -48150,7 +48184,8 @@ fON
 fON
 fON
 fON
-dby
+tLL
+fON
 fON
 fON
 fON
@@ -48164,7 +48199,6 @@ fON
 fON
 fON
 ncJ
-iPk
 iPk
 iPk
 iPk
@@ -48390,7 +48424,7 @@ xjJ
 mkh
 uYX
 fmk
-suT
+fON
 fON
 fON
 fON
@@ -48415,13 +48449,13 @@ fON
 fON
 fON
 fON
-dby
+tLL
+fON
 fON
 fON
 fON
 fON
 ncJ
-iPk
 iPk
 iPk
 iPk
@@ -48647,7 +48681,7 @@ uiZ
 lpv
 uYX
 fmk
-suT
+fON
 fON
 fON
 fON
@@ -48677,7 +48711,7 @@ fON
 fON
 fON
 fON
-ncJ
+fON
 ncJ
 iPk
 iPk
@@ -48904,21 +48938,12 @@ lpv
 lpv
 uYX
 fmk
-suT
 fON
 fON
 fON
 fON
 fON
 fON
-fON
-fON
-fON
-fON
-fON
-fON
-fON
-wRq
 fON
 fON
 fON
@@ -48934,7 +48959,16 @@ fON
 fON
 fON
 fON
-oiE
+fON
+fON
+wRq
+fON
+fON
+fON
+fON
+fON
+fON
+cvM
 ncJ
 iPk
 rmc
@@ -49161,10 +49195,10 @@ uYX
 uYX
 uYX
 fmk
-suT
 fON
 fON
-dby
+fON
+tLL
 fON
 vpn
 fON
@@ -49172,8 +49206,8 @@ fON
 fON
 fON
 fON
-qyh
-qyh
+tRT
+tRT
 fON
 fON
 fON
@@ -49191,7 +49225,7 @@ fON
 fON
 fON
 fON
-suT
+fON
 ncJ
 iPk
 iPk
@@ -49418,7 +49452,7 @@ aFe
 aFe
 aFe
 aFe
-suT
+fON
 cvM
 fON
 fON
@@ -49447,8 +49481,8 @@ fON
 fON
 fON
 fON
-dby
-suT
+tLL
+fON
 ncJ
 iPk
 iPk
@@ -49674,7 +49708,7 @@ fON
 fON
 fON
 fON
-suT
+fON
 tLL
 fON
 fON
@@ -49686,26 +49720,26 @@ fON
 fON
 fON
 fON
-suT
-suT
-suT
-suT
-suT
-suT
-suT
-suT
-suT
-suT
-suT
+fON
+fON
+fON
+fON
+fON
+fON
+fON
+fON
+fON
+fON
+fON
 fON
 iPB
 riq
 iPB
 iPB
 iPB
-suT
 fON
-suT
+fON
+fON
 ncJ
 ncJ
 iPk
@@ -49960,10 +49994,10 @@ xni
 mek
 lTd
 iPB
-suT
 fON
-suT
-suT
+fON
+fON
+fON
 ncJ
 ncJ
 ncJ
@@ -50217,12 +50251,12 @@ sxn
 cxc
 qQD
 iPB
-suT
 fON
-suT
-suT
-suT
-fdq
+fON
+fON
+fON
+fON
+vpn
 ncJ
 ncJ
 ncJ
@@ -50236,7 +50270,7 @@ ncJ
 iUm
 iPk
 nXA
-lEq
+nXA
 ncJ
 aaa
 aaa
@@ -50440,7 +50474,7 @@ ncJ
 iPk
 iPk
 ncJ
-eqW
+vfG
 fON
 fON
 fON
@@ -50474,7 +50508,6 @@ kxp
 ksN
 qQD
 iPB
-suT
 fON
 fON
 fON
@@ -50482,7 +50515,8 @@ fON
 fON
 fON
 fON
-xvd
+fON
+qcu
 fON
 fON
 fON
@@ -50493,7 +50527,7 @@ ncJ
 ncJ
 ncJ
 ncJ
-fON
+qcu
 ncJ
 aaa
 aaa
@@ -50731,7 +50765,6 @@ gGA
 iLu
 qQD
 iPB
-suT
 fON
 fON
 fON
@@ -50739,7 +50772,8 @@ fON
 fON
 fON
 fON
-xvd
+fON
+qcu
 fON
 fON
 fON
@@ -50988,15 +51022,15 @@ fBo
 eDp
 dGg
 iPB
-suT
 fON
 fON
 fON
 fON
-dby
+fON
+tLL
 fON
 fON
-xvd
+qcu
 fON
 fON
 fON
@@ -51245,23 +51279,23 @@ iPB
 gDf
 iPB
 iPB
-suT
 fON
-suT
-suT
-suT
-suT
+fON
+fON
+fON
+fON
+fON
 ncJ
 ncJ
 ncJ
 ncJ
-oiE
-suT
-suT
-suT
-suT
-suT
-dby
+cvM
+fON
+fON
+fON
+fON
+fON
+tLL
 fON
 fON
 fON
@@ -51504,8 +51538,8 @@ fON
 fON
 fON
 fON
-suT
-fdq
+fON
+vpn
 ncJ
 ncJ
 ncJ
@@ -51513,11 +51547,11 @@ ncJ
 ncJ
 ncJ
 ncJ
-suT
-suT
-suT
-suT
-suT
+fON
+fON
+fON
+fON
+fON
 fON
 fON
 fON
@@ -51757,11 +51791,11 @@ fON
 fON
 fON
 fON
-dby
+tLL
 fON
 fON
-dby
-suT
+tLL
+fON
 ncJ
 ncJ
 ncJ
@@ -51773,8 +51807,8 @@ ncJ
 ncJ
 ncJ
 ncJ
-suT
-suT
+fON
+fON
 fON
 fON
 fON
@@ -53300,9 +53334,9 @@ xfS
 oom
 wAY
 aFe
-suT
-suT
-suT
+fON
+fON
+fON
 ncJ
 ncJ
 ncJ
@@ -53318,7 +53352,7 @@ ftJ
 fKZ
 ncJ
 ncJ
-dby
+tLL
 fON
 fON
 aFe
@@ -53557,10 +53591,10 @@ xfS
 oom
 qcq
 aFe
-suT
-suT
-suT
-oiE
+fON
+fON
+fON
+cvM
 ncJ
 ncJ
 ncJ
@@ -53773,7 +53807,7 @@ aaa
 aaa
 "}
 (69,1,1) = {"
-aaa
+dby
 aaa
 aaa
 aaa
@@ -53788,7 +53822,7 @@ mpq
 vKI
 mWR
 aFe
-uDO
+tEJ
 oom
 uDO
 wAV
@@ -53814,11 +53848,11 @@ bNy
 oom
 kJC
 aFe
-suT
-suT
-suT
-suT
-suT
+fON
+fON
+fON
+fON
+fON
 jyC
 lXS
 oom
@@ -54071,11 +54105,11 @@ bNy
 oom
 kJC
 aFe
-suT
-suT
-suT
-suT
-suT
+fON
+fON
+fON
+fON
+fON
 jyC
 qFh
 oom
@@ -54328,10 +54362,10 @@ aFe
 oom
 aFe
 aFe
-suT
-suT
-suT
-suT
+fON
+fON
+fON
+fON
 jyC
 jyC
 ncJ
@@ -54585,10 +54619,10 @@ xVA
 oom
 xXp
 aFe
-suT
-suT
-suT
-suT
+fON
+fON
+fON
+fON
 ncJ
 ncJ
 ncJ
@@ -54603,7 +54637,7 @@ tON
 jDc
 ncJ
 ncJ
-ncJ
+fON
 fON
 fON
 aFe
@@ -54818,7 +54852,7 @@ mWR
 aFe
 sRf
 mYr
-wBK
+uDO
 wAV
 oom
 oom
@@ -54842,9 +54876,9 @@ oom
 oom
 kJC
 aFe
-suT
-suT
-suT
+fON
+fON
+fON
 ncJ
 ncJ
 meb
@@ -54860,7 +54894,7 @@ oom
 oom
 ncJ
 ncJ
-ncJ
+fON
 fON
 fON
 aFe
@@ -55099,9 +55133,9 @@ deS
 oom
 kJC
 aFe
-suT
-suT
-suT
+fON
+fON
+fON
 ncJ
 ncJ
 wfT
@@ -55117,7 +55151,7 @@ gme
 qjU
 ncJ
 ncJ
-ncJ
+fON
 fON
 fON
 ncJ
@@ -55356,9 +55390,9 @@ oom
 oom
 bNy
 aFe
-suT
-suT
-suT
+fON
+fON
+fON
 ncJ
 ncJ
 gSt
@@ -55374,8 +55408,8 @@ oom
 oom
 ncJ
 ncJ
-ncJ
-xvd
+qcu
+qcu
 lvA
 ncJ
 ncJ
@@ -55613,9 +55647,9 @@ oom
 oom
 bNy
 aFe
-suT
-suT
-suT
+fON
+fON
+fON
 ncJ
 ncJ
 gAN
@@ -55631,7 +55665,7 @@ ncJ
 ncJ
 ncJ
 ncJ
-ncJ
+fON
 fON
 fON
 ncJ
@@ -55847,7 +55881,7 @@ oom
 oom
 aFe
 fCp
-sGg
+wBK
 iOU
 oom
 fCp
@@ -55870,10 +55904,10 @@ oom
 bNy
 aFe
 aFe
-suT
-suT
+fON
+fON
 tLL
-suT
+fON
 ncJ
 ncJ
 ncJ
@@ -55888,7 +55922,7 @@ ncJ
 ncJ
 ncJ
 ncJ
-ncJ
+fON
 fON
 fON
 ncJ
@@ -56108,7 +56142,7 @@ xeB
 hVv
 oom
 bKj
-sGg
+xeB
 hVv
 aFe
 clV
@@ -56126,28 +56160,28 @@ oom
 oom
 oJZ
 aFe
-oiE
-suT
-suT
-suT
-suT
-ncJ
-ncJ
-ncJ
-ncJ
-ncJ
-ncJ
-ncJ
-ncJ
-ncJ
-ncJ
-ncJ
-ncJ
-ncJ
-ncJ
-suT
+cvM
 fON
-dby
+fON
+fON
+fON
+ncJ
+ncJ
+ncJ
+ncJ
+ncJ
+ncJ
+ncJ
+ncJ
+ncJ
+ncJ
+ncJ
+ncJ
+ncJ
+ncJ
+fON
+fON
+tLL
 fON
 ncJ
 aaa
@@ -56383,29 +56417,29 @@ oom
 vbm
 aFe
 aFe
-suT
-suT
-suT
-suT
-suT
-suT
-suT
-ncJ
-ncJ
-ncJ
-ncJ
-ncJ
-ncJ
-ncJ
-ncJ
-ncJ
-ncJ
-suT
-suT
-suT
 fON
 fON
-suT
+fON
+fON
+fON
+fON
+fON
+ncJ
+ncJ
+ncJ
+ncJ
+ncJ
+ncJ
+ncJ
+ncJ
+ncJ
+ncJ
+fON
+fON
+fON
+fON
+fON
+fON
 ncJ
 aaa
 aaa
@@ -56632,7 +56666,7 @@ oom
 oom
 fON
 fON
-suT
+fON
 aFe
 mvp
 mqD
@@ -56662,7 +56696,7 @@ fON
 fON
 fON
 fON
-suT
+fON
 ncJ
 aaa
 aaa
@@ -56889,7 +56923,7 @@ oom
 oom
 fON
 fON
-suT
+fON
 aFe
 aFe
 aFe
@@ -56903,7 +56937,7 @@ fON
 fON
 fON
 fON
-dby
+tLL
 fON
 fON
 cvM
@@ -56912,14 +56946,14 @@ fON
 fON
 fON
 fON
-dby
+tLL
 fON
 fON
 fON
-dby
+tLL
 fON
 eIc
-suT
+fON
 ncJ
 aaa
 aaa
@@ -57125,7 +57159,7 @@ iUm
 iPk
 iPk
 iPk
-suT
+fON
 pjZ
 sav
 sav
@@ -57382,7 +57416,7 @@ iUm
 iUm
 iUm
 iPk
-suT
+fON
 pjZ
 sav
 sav
@@ -57639,7 +57673,7 @@ iUm
 iUm
 iUm
 ncJ
-suT
+fON
 pjZ
 sav
 sav
@@ -57678,7 +57712,7 @@ fON
 fON
 fON
 fON
-dby
+tLL
 fON
 fON
 fON
@@ -57896,7 +57930,7 @@ okd
 iUm
 iUm
 ncJ
-suT
+fON
 pjZ
 sav
 sav
@@ -58153,7 +58187,7 @@ okd
 okd
 ncJ
 ncJ
-suT
+fON
 wcO
 sav
 sav
@@ -58444,8 +58478,8 @@ fON
 fON
 fON
 fON
-qyh
-qyh
+tRT
+tRT
 fON
 fON
 fON
@@ -58683,13 +58717,13 @@ xkO
 pjZ
 fON
 fON
-dby
+tLL
 oom
 oom
 wsN
 ndC
 fON
-dby
+tLL
 fON
 fON
 fON
@@ -58718,7 +58752,7 @@ fON
 fON
 fON
 fON
-suT
+fON
 ncJ
 ncJ
 aaa
@@ -58953,29 +58987,29 @@ fON
 fON
 fON
 tLL
-suT
-suT
-suT
-suT
-suT
-suT
-suT
-suT
-suT
-suT
+fON
+fON
+fON
+fON
+fON
+fON
+fON
+fON
+fON
+fON
 tRT
 hmY
 hmY
 hmY
 hmY
 hmY
-suT
-suT
-suT
-suT
 fON
 fON
-suT
+fON
+fON
+fON
+fON
+fON
 ncJ
 ncJ
 aaa
@@ -59209,30 +59243,30 @@ vgJ
 fON
 fON
 fON
-suT
-suT
-suT
-suT
-suT
+fON
+fON
+fON
+fON
+fON
 tLL
-suT
-suT
-suT
-suT
-suT
-suT
+fON
+fON
+fON
+fON
+fON
+fON
 hmY
 jWJ
 wnZ
 cHL
 hmY
 tLL
-suT
-suT
-suT
-suT
-suT
-suT
+fON
+fON
+fON
+fON
+fON
+fON
 ncJ
 ncJ
 ncJ
@@ -59466,30 +59500,30 @@ fON
 fON
 fON
 fON
-suT
-suT
-suT
-suT
-oiE
-suT
-suT
-suT
-suT
-suT
-suT
-suT
+fON
+fON
+fON
+fON
+cvM
+fON
+fON
+fON
+fON
+fON
+fON
+fON
 hmY
 csM
 pLM
 pLM
 hmY
-suT
-suT
-suT
-suT
-suT
-suT
-suT
+fON
+fON
+fON
+fON
+fON
+fON
+fON
 ncJ
 ncJ
 bgH
@@ -59728,22 +59762,22 @@ aFe
 aFe
 aFe
 aFe
-suT
-suT
-suT
+fON
+fON
+fON
 tRT
-suT
-suT
-suT
+fON
+fON
+fON
 hmY
 ptm
 pLM
 xvV
 hmY
-suT
-suT
-suT
-suT
+fON
+fON
+fON
+fON
 ncJ
 ncJ
 ncJ
@@ -59985,21 +60019,21 @@ bar
 xjo
 sps
 aFe
-suT
-suT
-suT
-suT
+fON
+fON
+fON
+fON
 tLL
-suT
+fON
 hmY
 hmY
 hmY
 bdH
 hmY
 hmY
-suT
-suT
-suT
+fON
+fON
+fON
 ncJ
 ktB
 ncJ
@@ -60230,7 +60264,7 @@ oom
 oom
 cvM
 fON
-dby
+tLL
 fON
 fON
 fON
@@ -60242,21 +60276,21 @@ rnA
 rnA
 iqo
 fmk
-suT
-suT
-suT
-suT
-suT
-suT
+fON
+fON
+fON
+fON
+fON
+fON
 hmY
 sZu
 pWE
 oom
 ebM
 hmY
-suT
-suT
-suT
+fON
+fON
+fON
 ncJ
 sOh
 sOh
@@ -60482,7 +60516,7 @@ sav
 pjZ
 fON
 fON
-dby
+tLL
 oom
 oom
 fON
@@ -60490,7 +60524,7 @@ fON
 fON
 fON
 fON
-dby
+tLL
 fON
 aFe
 aFe
@@ -60499,20 +60533,20 @@ aFe
 uTC
 aFe
 aFe
-suT
-suT
-suT
-oiE
-suT
-suT
+fON
+fON
+fON
+cvM
+fON
+fON
 dbo
 wRJ
 oom
 kAR
 vgC
 dbo
-suT
-suT
+fON
+fON
 ncJ
 sOh
 sOh
@@ -60723,7 +60757,7 @@ iPt
 iUm
 iUm
 ncJ
-suT
+fON
 pjZ
 sav
 sav
@@ -60749,26 +60783,26 @@ fON
 wRq
 fON
 fON
-oiE
+cvM
 aFe
 qtI
 oom
 oom
 oom
 aFe
-suT
-suT
-suT
-suT
-suT
-suT
+fON
+fON
+fON
+fON
+fON
+fON
 tYG
 iOM
 oom
 oom
 dlI
 dbo
-suT
+fON
 tLL
 ncJ
 sOh
@@ -61013,20 +61047,20 @@ fkv
 uDO
 jMs
 aFe
-suT
-suT
-suT
-suT
-suT
-suT
+fON
+fON
+fON
+fON
+fON
+fON
 tYG
 iOM
 oom
 oom
 oom
 sGG
-suT
-suT
+fON
+fON
 ncJ
 sOh
 rJg
@@ -61043,7 +61077,7 @@ bgH
 bUc
 mgJ
 nZr
-kjh
+gcl
 sOh
 sOh
 ncJ
@@ -61270,20 +61304,20 @@ edT
 eoG
 umz
 aFe
-suT
-suT
-suT
-suT
-suT
-suT
+fON
+fON
+fON
+fON
+fON
+fON
 tYG
 iOM
 oom
 oom
 kOj
 dbo
-suT
-suT
+fON
+fON
 ncJ
 rJg
 rJg
@@ -61527,20 +61561,20 @@ aFe
 aFe
 aFe
 aFe
-suT
-suT
-suT
-suT
-suT
-suT
+fON
+fON
+fON
+fON
+fON
+fON
 dbo
 iOM
 oom
 oom
 kOj
 sJw
-suT
-oiE
+fON
+cvM
 ncJ
 rJg
 rJg
@@ -61766,11 +61800,11 @@ fON
 fON
 fON
 fON
-dby
+tLL
 fON
 oom
 oom
-dby
+tLL
 fON
 fON
 fON
@@ -61778,26 +61812,26 @@ fON
 fON
 fON
 oom
-suT
-suT
-suT
-suT
-suT
-suT
-suT
-suT
-suT
-fdq
-suT
-suT
+fON
+fON
+fON
+fON
+fON
+fON
+fON
+fON
+fON
+vpn
+fON
+fON
 hmY
 mRm
 hIZ
 oMr
 rXY
 hmY
-suT
-suT
+fON
+fON
 ncJ
 rJg
 ncJ
@@ -62035,25 +62069,25 @@ fON
 fON
 fON
 oom
-suT
-suT
-suT
-suT
-suT
-suT
-suT
-suT
-suT
-suT
-suT
-suT
+fON
+fON
+fON
+fON
+fON
+fON
+fON
+fON
+fON
+fON
+fON
+fON
 hmY
 hmY
 rSb
 rSb
 hmY
 hmY
-suT
+fON
 tLL
 ncJ
 rJg
@@ -62292,26 +62326,26 @@ aFe
 aFe
 aFe
 oom
-suT
-suT
-suT
-suT
-suT
-suT
-suT
-suT
-suT
-suT
-suT
-suT
-suT
-suT
-suT
-suT
-suT
-suT
-suT
-suT
+fON
+fON
+fON
+fON
+fON
+fON
+fON
+fON
+fON
+fON
+fON
+fON
+fON
+fON
+fON
+fON
+fON
+fON
+fON
+fON
 ncJ
 rJg
 eAr
@@ -62549,26 +62583,26 @@ wUA
 scb
 aFe
 oom
-suT
-suT
-pbN
-suT
-suT
-suT
-suT
-suT
-suT
-suT
-suT
-suT
-suT
-suT
-suT
-iyp
-suT
-suT
-suT
-suT
+fON
+fON
+wRq
+fON
+fON
+fON
+fON
+fON
+fON
+fON
+fON
+fON
+fON
+fON
+fON
+jQd
+fON
+fON
+fON
+fON
 ncJ
 sOh
 uCQ
@@ -62806,26 +62840,26 @@ rnA
 rnA
 aFe
 oom
-suT
-suT
-suT
-suT
-suT
-suT
-suT
-suT
-suT
-suT
-suT
-suT
-suT
-suT
-suT
-suT
-suT
-fdq
-suT
-suT
+fON
+fON
+fON
+fON
+fON
+fON
+fON
+fON
+fON
+fON
+fON
+fON
+fON
+fON
+fON
+fON
+fON
+vpn
+fON
+fON
 ncJ
 sOh
 uCQ
@@ -63063,26 +63097,26 @@ rnA
 rnA
 aFe
 oom
-suT
-suT
-suT
+fON
+fON
+fON
 tLL
-suT
-suT
-suT
-suT
-suT
-suT
-suT
-oiE
-suT
-suT
-suT
-suT
-suT
-suT
-suT
-suT
+fON
+fON
+fON
+fON
+fON
+fON
+fON
+cvM
+fON
+fON
+fON
+fON
+fON
+fON
+fON
+fON
 ncJ
 oFl
 uCQ
@@ -63320,26 +63354,26 @@ rnA
 rnA
 plP
 oom
-suT
-suT
-suT
-suT
-suT
-suT
-suT
-suT
-suT
-suT
-suT
-suT
-suT
-suT
-suT
+fON
+fON
+fON
+fON
+fON
+fON
+fON
+fON
+fON
+fON
+fON
+fON
+fON
+fON
+fON
 tLL
-suT
-suT
-suT
-suT
+fON
+fON
+fON
+fON
 ncJ
 sOh
 uCQ
@@ -63577,26 +63611,26 @@ rnA
 rnA
 aFe
 oom
-suT
-suT
-suT
-suT
-suT
-suT
-suT
+fON
+fON
+fON
+fON
+fON
+fON
+fON
 tLL
-suT
-suT
-suT
-fdq
-suT
-suT
-suT
-suT
-suT
-suT
-suT
-suT
+fON
+fON
+fON
+vpn
+fON
+fON
+fON
+fON
+fON
+fON
+fON
+fON
 ncJ
 sOh
 uCQ
@@ -63834,7 +63868,7 @@ pbF
 dBN
 aFe
 oom
-suT
+fON
 wRq
 jQd
 fON
@@ -63844,7 +63878,7 @@ fON
 fON
 fON
 fON
-dby
+tLL
 fON
 fON
 fON
@@ -63852,9 +63886,9 @@ fON
 fON
 fON
 fON
-pbN
-iyp
-suT
+wRq
+jQd
+fON
 ncJ
 uCQ
 bgH
@@ -64091,7 +64125,7 @@ aFe
 aFe
 aFe
 oom
-suT
+fON
 fON
 fON
 fON
@@ -64109,10 +64143,10 @@ fON
 fON
 fON
 fON
-suT
-suT
-suT
-suT
+fON
+fON
+fON
+fON
 ncJ
 bgH
 oHg
@@ -64348,7 +64382,7 @@ wRq
 fON
 fON
 oom
-suT
+fON
 fON
 fON
 fON
@@ -64366,10 +64400,10 @@ fON
 fON
 fON
 fON
-suT
-oiE
-suT
-suT
+fON
+cvM
+fON
+fON
 ncJ
 bgH
 bgH
@@ -64591,7 +64625,7 @@ fON
 fON
 fON
 fON
-dby
+tLL
 fON
 fON
 fON
@@ -64603,9 +64637,9 @@ fON
 fON
 fON
 fON
-dby
+tLL
 oom
-suT
+fON
 fON
 fON
 fON
@@ -64620,14 +64654,14 @@ fON
 fON
 fON
 fON
-dby
+tLL
 fON
 fON
-suT
-suT
-suT
-suT
-suT
+fON
+fON
+fON
+fON
+fON
 ncJ
 ncJ
 bgH
@@ -65379,7 +65413,7 @@ fON
 fON
 fON
 fON
-dby
+tLL
 fON
 fON
 fON
@@ -65394,12 +65428,12 @@ fON
 fON
 fON
 fON
-suT
-suT
-fdq
-suT
-suT
-suT
+fON
+fON
+vpn
+fON
+fON
+fON
 ncJ
 bgH
 oHg
@@ -65651,11 +65685,11 @@ fON
 fON
 fON
 fON
-suT
-suT
-suT
-suT
-suT
+fON
+fON
+fON
+fON
+fON
 ncJ
 bgH
 bgH
@@ -65884,7 +65918,7 @@ fON
 fON
 fON
 fON
-dby
+tLL
 fON
 fON
 fON
@@ -65901,15 +65935,15 @@ fON
 fON
 fON
 fON
-dby
+tLL
 fON
 fON
 fON
 fON
 fON
 fON
-suT
-suT
+fON
+fON
 ncJ
 ncJ
 ncJ
@@ -66136,7 +66170,7 @@ fON
 fON
 fON
 fON
-dby
+tLL
 fON
 fON
 vpn
@@ -66165,7 +66199,7 @@ wRq
 fON
 fON
 fON
-suT
+fON
 ncJ
 bgH
 bgH
@@ -66949,7 +66983,7 @@ bUc
 sOh
 hRj
 fwN
-wIn
+nWY
 nWY
 ona
 mgJ
@@ -67179,7 +67213,7 @@ fON
 fON
 ncJ
 fON
-dby
+tLL
 fON
 fON
 fON

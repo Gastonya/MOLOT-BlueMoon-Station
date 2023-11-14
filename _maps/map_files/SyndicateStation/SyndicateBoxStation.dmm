@@ -674,11 +674,6 @@
 /turf/open/floor/carpet/black,
 /area/command/heads_quarters/hos)
 "abV" = (
-/obj/structure/closet/crate/secure/weapon{
-	desc = "A secure clothing crate.";
-	name = "formal uniform crate";
-	req_access_txt = "3"
-	},
 /obj/item/clothing/head/beret/sec/navyhos,
 /obj/item/clothing/head/beret/sec/navywarden,
 /obj/item/clothing/head/beret/sec/navyofficer,
@@ -693,6 +688,11 @@
 /obj/item/clothing/under/rank/security/officer/formal,
 /obj/item/clothing/under/rank/security/officer/formal,
 /obj/machinery/atmospherics/pipe/simple/scrubbers/hidden,
+/obj/structure/closet/crate/secure/weapon{
+	desc = "A secure clothing crate.";
+	name = "formal uniform crate";
+	req_access_txt = "3"
+	},
 /turf/open/floor/mineral/plastitanium/red,
 /area/security/office)
 "abW" = (
@@ -880,6 +880,7 @@
 /area/security/prison)
 "acr" = (
 /obj/structure/chair/comfy/black,
+/obj/effect/landmark/start/head_of_security,
 /turf/open/floor/carpet/black,
 /area/command/heads_quarters/hos)
 "acs" = (
@@ -2507,7 +2508,6 @@
 /obj/structure/cable{
 	icon_state = "1-2"
 	},
-/obj/effect/landmark/start/head_of_security,
 /obj/machinery/atmospherics/pipe/simple/scrubbers/hidden,
 /turf/open/floor/mineral/plastitanium/red,
 /area/security/office)
@@ -10101,6 +10101,7 @@
 	},
 /obj/item/radio/off,
 /obj/item/assembly/timer,
+/obj/structure/rack,
 /turf/open/floor/mineral/plastitanium,
 /area/ai_monitored/command/storage/eva)
 "ayw" = (
@@ -11202,10 +11203,6 @@
 /obj/structure/cable{
 	icon_state = "2-8"
 	},
-/obj/item/pen{
-	desc = "Writes upside down!";
-	name = "astronaut pen"
-	},
 /obj/machinery/atmospherics/pipe/manifold/supply/hidden{
 	dir = 8
 	},
@@ -11755,15 +11752,15 @@
 /turf/open/floor/mineral/plastitanium,
 /area/ai_monitored/command/storage/eva)
 "aDB" = (
-/obj/machinery/suit_storage_unit/standard_unit,
 /obj/effect/turf_decal/stripes/line,
+/obj/machinery/suit_storage_unit/syndicate/softsuit,
 /turf/open/floor/mineral/plastitanium,
 /area/ai_monitored/command/storage/eva)
 "aDC" = (
-/obj/machinery/suit_storage_unit/standard_unit,
 /obj/effect/turf_decal/stripes/line{
 	dir = 10
 	},
+/obj/machinery/suit_storage_unit/syndicate/softsuit,
 /turf/open/floor/mineral/plastitanium,
 /area/ai_monitored/command/storage/eva)
 "aDD" = (
@@ -11774,20 +11771,20 @@
 /turf/open/floor/mineral/plastitanium,
 /area/ai_monitored/command/storage/eva)
 "aDE" = (
-/obj/machinery/suit_storage_unit/standard_unit,
 /obj/machinery/light,
 /obj/machinery/camera{
 	c_tag = "EVA Storage";
 	dir = 1
 	},
 /obj/effect/turf_decal/stripes/line,
+/obj/machinery/suit_storage_unit/syndicate/softsuit,
 /turf/open/floor/mineral/plastitanium,
 /area/ai_monitored/command/storage/eva)
 "aDF" = (
-/obj/machinery/suit_storage_unit/standard_unit,
 /obj/effect/turf_decal/stripes/line{
 	dir = 6
 	},
+/obj/machinery/suit_storage_unit/syndicate/softsuit,
 /turf/open/floor/mineral/plastitanium,
 /area/ai_monitored/command/storage/eva)
 "aDG" = (
@@ -12686,15 +12683,13 @@
 /turf/open/floor/mineral/plastitanium,
 /area/ai_monitored/command/storage/eva)
 "aGq" = (
-/obj/item/stack/sheet/plasteel{
-	amount = 10
+/obj/machinery/door/poddoor/shutters/preopen{
+	id = "secdorm2";
+	name = "Holodeck Shutters"
 	},
-/obj/structure/table,
-/obj/effect/turf_decal/stripes/line{
-	dir = 4
-	},
-/turf/open/floor/mineral/plastitanium,
-/area/ai_monitored/command/storage/eva)
+/obj/effect/spawner/structure/window/plastitanium,
+/turf/open/floor/plating,
+/area/security/office)
 "aGs" = (
 /obj/machinery/suit_storage_unit/rd,
 /turf/open/floor/mineral/plastitanium,
@@ -13229,12 +13224,9 @@
 /turf/open/floor/mineral/plastitanium,
 /area/ai_monitored/command/storage/eva)
 "aHO" = (
-/obj/structure/reagent_dispensers/fueltank,
-/obj/effect/turf_decal/stripes/line{
-	dir = 4
-	},
-/turf/open/floor/mineral/plastitanium,
-/area/ai_monitored/command/storage/eva)
+/obj/structure/closet/secure_closet/personal,
+/turf/open/floor/mineral/plastitanium/red,
+/area/security/office)
 "aHP" = (
 /obj/machinery/door/firedoor,
 /obj/machinery/door/airlock/public/glass{
@@ -51302,6 +51294,19 @@
 	},
 /turf/open/floor/mineral/plastitanium,
 /area/hallway/primary/fore)
+"cYo" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/structure/disposalpipe/segment{
+	dir = 4
+	},
+/obj/machinery/atmospherics/pipe/simple/supply/hidden{
+	dir = 4
+	},
+/obj/machinery/suit_storage_unit/syndicate/softsuit,
+/turf/open/floor/plating,
+/area/maintenance/fore)
 "cZe" = (
 /obj/structure/cable{
 	icon_state = "4-8"
@@ -51535,7 +51540,7 @@
 /obj/item/assembly/signaler,
 /obj/item/clothing/head/welding,
 /turf/open/floor/plasteel/dark,
-/area/space)
+/area/ai_monitored/command/storage/eva)
 "dpv" = (
 /obj/effect/turf_decal/tile/neutral{
 	dir = 1
@@ -52086,7 +52091,6 @@
 	req_access_txt = "1"
 	},
 /obj/item/bedsheet/red,
-/obj/effect/landmark/start/security_officer,
 /turf/open/floor/mineral/plastitanium/red,
 /area/security/office)
 "eih" = (
@@ -52997,7 +53001,6 @@
 /obj/item/bedsheet/red{
 	dir = 1
 	},
-/obj/effect/landmark/start/security_officer,
 /turf/open/floor/mineral/plastitanium/red,
 /area/security/office)
 "fgl" = (
@@ -53045,6 +53048,10 @@
 	normaldoorcontrol = 1;
 	pixel_y = -25;
 	specialfunctions = 4
+	},
+/obj/machinery/light{
+	dir = 4;
+	light_color = "#e8eaff"
 	},
 /turf/open/floor/mineral/plastitanium/red,
 /area/security/office)
@@ -55459,6 +55466,7 @@
 /obj/effect/turf_decal/tile/red{
 	dir = 1
 	},
+/obj/effect/landmark/start/security_officer,
 /turf/open/floor/mineral/plastitanium/red,
 /area/security/office)
 "iHk" = (
@@ -56156,6 +56164,13 @@
 	},
 /turf/open/floor/mineral/plastitanium,
 /area/security/prison)
+"jCH" = (
+/obj/machinery/light{
+	dir = 4;
+	light_color = "#e8eaff"
+	},
+/turf/open/floor/mineral/plastitanium/red,
+/area/security/office)
 "jCV" = (
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/mineral/plastitanium,
@@ -57529,7 +57544,7 @@
 	dir = 8
 	},
 /turf/open/floor/plasteel/dark,
-/area/space)
+/area/ai_monitored/command/storage/eva)
 "laq" = (
 /obj/structure/cable{
 	icon_state = "1-8"
@@ -61646,9 +61661,7 @@
 	name = "EVA Storage";
 	req_access_txt = "18"
 	},
-/turf/closed/wall/r_wall/syndicate{
-	smooth = 2
-	},
+/turf/open/floor/plasteel/dark,
 /area/ai_monitored/command/storage/eva)
 "qCR" = (
 /obj/structure/musician/piano,
@@ -65151,6 +65164,13 @@
 	smooth = 2
 	},
 /area/commons/dorms)
+"vyA" = (
+/obj/structure/table,
+/obj/item/stack/sheet/plasteel{
+	amount = 10
+	},
+/turf/open/floor/mineral/plastitanium,
+/area/ai_monitored/command/storage/eva)
 "vyK" = (
 /obj/effect/spawner/structure/window/plastitanium,
 /obj/machinery/door/poddoor/preopen{
@@ -65190,11 +65210,12 @@
 /turf/open/floor/mineral/plastitanium,
 /area/command/blueshielquarters)
 "vBW" = (
-/obj/machinery/light{
-	dir = 1
+/obj/machinery/door/poddoor/shutters/preopen{
+	id = "secdorm1";
+	name = "Holodeck Shutters"
 	},
-/obj/structure/closet/secure_closet/personal,
-/turf/open/floor/mineral/plastitanium/red,
+/obj/effect/spawner/structure/window/plastitanium,
+/turf/open/floor/plating,
 /area/security/office)
 "vCb" = (
 /obj/machinery/rnd/production/techfab/department/service,
@@ -66613,6 +66634,10 @@
 	},
 /turf/open/floor/carpet/black,
 /area/commons/arcade)
+"xxh" = (
+/obj/structure/reagent_dispensers/fueltank,
+/turf/open/floor/mineral/plastitanium,
+/area/ai_monitored/command/storage/eva)
 "xxi" = (
 /obj/machinery/atmospherics/pipe/simple/scrubbers/hidden{
 	dir = 4
@@ -66744,10 +66769,10 @@
 /turf/open/floor/mineral/plastitanium,
 /area/commons/locker)
 "xDW" = (
+/obj/structure/closet/secure_closet/security/sec,
 /obj/machinery/light{
 	dir = 1
 	},
-/obj/structure/closet/secure_closet/security/sec,
 /turf/open/floor/mineral/plastitanium/red,
 /area/security/office)
 "xEB" = (
@@ -92498,7 +92523,7 @@ ueW
 dbg
 obZ
 mJE
-awg
+cYo
 axy
 ayK
 azE
@@ -92763,7 +92788,7 @@ aAW
 aCa
 aDB
 aDI
-aEZ
+vyA
 aEZ
 aEZ
 ayW
@@ -93791,7 +93816,7 @@ aBq
 aBr
 aDE
 aFc
-aEZ
+xxh
 aEZ
 aJf
 ayW
@@ -94048,8 +94073,8 @@ aBp
 aCc
 aDF
 ayW
-aGq
-aHO
+aCc
+aCc
 aJl
 ayW
 ftE
@@ -95076,8 +95101,8 @@ iWl
 mAg
 srZ
 gmw
-ayW
-ayW
+aph
+aph
 fxV
 fxV
 pQN
@@ -97602,8 +97627,8 @@ aaa
 aaa
 aaa
 aaa
-sZS
 vBW
+afU
 afU
 xCi
 iGX
@@ -97859,9 +97884,9 @@ aaa
 aaa
 aaa
 aaa
-abp
-abp
-abp
+vBW
+aHO
+jCH
 abp
 rYU
 wlI
@@ -98116,8 +98141,8 @@ aaa
 aaa
 aaa
 aaa
-aaa
-aaa
+abp
+abp
 abp
 xDW
 agg
@@ -98373,9 +98398,9 @@ aaa
 aaa
 aaa
 aaa
-abp
-abp
-abp
+aGq
+aHO
+afU
 abp
 wva
 abS
@@ -98630,8 +98655,8 @@ aaa
 aaa
 aaa
 aaa
-spE
-vBW
+aGq
+afU
 afU
 gbO
 iGX
